@@ -1,6 +1,6 @@
 ### What Is Opular?
 
-This is my attempt at implementing a single page application framework written in Ruby and modeled after AngularJS.
+This is my attempt at implementing a single page application framework written in Ruby and modeled after AngularJS. I really enjoy writing Angular apps and wondered if I could do something similar in Ruby.
 
 "But wait," you say, "Ruby? That doesn't run in the browser!" It does, in a way, using Opal to transpile Ruby to JS similar to how CoffeeScript is converted to Javascript. I wrote this following the fabulous eBook titled "Build your own Angular." I don't have it to the point where you could write a functioning web app yet, but the foundation is almost there.
 
